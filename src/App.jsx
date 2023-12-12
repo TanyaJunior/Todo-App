@@ -1,4 +1,3 @@
-import Navbar from "./components/Navbar"
 import Todo from "./components/Todo"
 import TodoItems from "./components/TodoItems"
 
